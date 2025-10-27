@@ -1,0 +1,12 @@
+{
+    "files.associations": {
+        "stdio.h": "c",
+        "stdlib.h": "c",
+        "stdnoreturn.h": "c",
+        "typeinfo": "c",
+        "string.h": "c",
+        "iostream": "c",
+        "ostream": "c",
+        "string_view": "c"
+    }
+}
